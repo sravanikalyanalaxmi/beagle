@@ -1,0 +1,10 @@
+h2 {
+    text-decoration: underline;
+}
+div{
+    border-width: 2px;
+    border-style: groove;
+    border-color: black;
+}
+
+p{text-justify: inter-cluster;}
